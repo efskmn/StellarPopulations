@@ -10,6 +10,6 @@ PCA applications to the near infrared photometric data obtained from the VVV sur
 - [Iain Murray](https://homepages.inf.ed.ac.uk/imurray2/)
 
 ## Software/Data Used: 
-- DAOPHOT: Crowded-field Stellar Photometry Package
+- [DAOPHOT](http://adsabs.harvard.edu/abs/2011ascl.soft04011S)
 - [Python](https://www.python.org/)
 - Github
