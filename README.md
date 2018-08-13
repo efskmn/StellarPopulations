@@ -7,7 +7,7 @@ PCA applications to the near infrared photometric data obtained from the VVV sur
 
 ## Hack Team: 
 - [Efşan Sökmen](https://github.com/efskmn)
-- [Iain Murray](https://homepages.inf.ed.ac.uk/imurray2/)
+- [Iain Murray](https://github.com/imurray)
 
 ## Software/Data Used: 
 - [DAOPHOT](http://adsabs.harvard.edu/abs/2011ascl.soft04011S)
