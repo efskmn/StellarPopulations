@@ -116,3 +116,4 @@ local_histogram_try.npz
 data
 local_histogram_fromdrive.npz
 plots
+PCA_populations.ipynb
